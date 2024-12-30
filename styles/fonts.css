@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Figtree Italic";
+    src: url('../assets/fonts/Figtree-Italic-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Figtree Medium";
+    src: url('../assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Figree Extra Bold";
+    src:  url('../assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+    font-weight: bold;
+}
