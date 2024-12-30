@@ -11,6 +11,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100%;
 }
 .text-preset1, .text-preset2, .text-preset3{
     line-height: 150%;
